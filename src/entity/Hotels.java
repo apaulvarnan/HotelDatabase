@@ -10,7 +10,7 @@ public class Hotels {
 	
 	public Hotels() {
 		super();
-		// TODO Auto-generated constructor stub
+	
 	}
 
 	public Hotels(int hotelId, String name,  String city) {

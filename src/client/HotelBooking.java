@@ -52,7 +52,7 @@ public class HotelBooking {
 				condition = false;
 				break;
 			default:
-				System.out.println("invalid choice");
+				System.out.println("invalid choice \");
 				}
 		}
 		
